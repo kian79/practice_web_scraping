@@ -3,3 +3,4 @@
 /.ipynb_checkpoints/
 /.cache/
 /making_scraped_data_usable.ipynb
+/test_scraper.py
